@@ -45,6 +45,7 @@ class MineStatus {
       headers: {
         Accept: "*/*",
       },
+      responseType: "arraybuffer",
     };
 
     axios
