@@ -1,7 +1,7 @@
 {
   "name": "MineStatus",
   "version": "1.0.0",
-  "description": "This package is for fetching server datails",
+  "description": "This npm package allows you to retrieve information about Minecraft servers for both Java and Bedrock editions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luoshenshi/MineStatus.git"
+  },
+  "homepage": "https://github.com/luoshenshi/MineStatus"
 }
