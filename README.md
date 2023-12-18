@@ -2,7 +2,7 @@
 
 This npm package lets you obtain information about Minecraft servers for both Java and Bedrock.
 
-**Notes:** *May not be compatible with Aternos Servers*
+**Note:** *May not be compatible with Aternos Servers*
 
 ### Getting Started
 
