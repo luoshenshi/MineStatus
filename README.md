@@ -5,11 +5,11 @@ This npm package lets you obtain information about Minecraft servers for both Ja
 ### Getting Started
 
 ```bash
-npm i MineStatus
+npm i mine-status
 ```
 
 ```javascript
-const { MineStatus } = require("MineStatus");
+const { MineStatus } = require("mine-status");
 
 const minestatus = new MineStatus();
 //without port
@@ -21,7 +21,7 @@ minestatus.getJavaServerStatus("hypixel.net", (response) => {
 OR
 
 ```javascript
-const { MineStatus } = require("MineStatus");
+const { MineStatus } = require("mine-status");
 
 const minestatus = new MineStatus();
 //with port
