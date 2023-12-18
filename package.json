@@ -1,6 +1,6 @@
 {
   "name": "mine-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package allows you to retrieve information about Minecraft servers for both Java and Bedrock editions.",
   "main": "index.js",
   "scripts": {
